@@ -1,2 +1,2 @@
-print("Yoyosup")
+print("yo yo sup")
 
